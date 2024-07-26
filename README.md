@@ -29,7 +29,8 @@ https://github.com/ZiminPark/coffee-augmented-rag/labels/RAG%20Evaluation%EC%9D%
 # Long Context가 LLM에 들어갈 때 성능이 어떻게 변할까
 
 **Reference**  
-[Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172)
+- [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/pdf/2307.03172)
+- [Further Readings](https://github.com/ZiminPark/coffee-augmented-rag/issues/8)
 <img width="577" alt="image" src="https://github.com/user-attachments/assets/96f92164-595a-43fe-9a72-8cbbaff28ec3">
 
 
