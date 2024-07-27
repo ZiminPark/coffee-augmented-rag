@@ -44,6 +44,8 @@ https://github.com/ZiminPark/coffee-augmented-rag/labels/Long%20Context%EA%B0%80
 
 **Reference**  
 - [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131)
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/3eb6e91e-ebdc-49d7-9df1-9d32ad81d739">
+
 
 
 **Question/ Discussion**  
