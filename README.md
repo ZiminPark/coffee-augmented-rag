@@ -38,7 +38,7 @@ https://github.com/ZiminPark/coffee-augmented-rag/labels/RAG%20Evaluation%EC%9D%
 https://github.com/ZiminPark/coffee-augmented-rag/labels/Long%20Context%EA%B0%80%20LLM%EC%97%90%20%EB%93%A4%EC%96%B4%EA%B0%88%20%EB%95%8C%20%EC%84%B1%EB%8A%A5%EC%9D%B4%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EB%B3%80%ED%95%A0%EA%B9%8C
 
 **Summary**  
-어쩌구저쩌구 
+https://github.com/ZiminPark/coffee-augmented-rag/blob/main/lost-in-the-middle.md
 
 # RAG+FT 어떻게 시너지 낼수 있을까
 
