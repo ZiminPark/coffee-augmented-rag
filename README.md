@@ -57,7 +57,8 @@ https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is:issue+is:open+labe
 # RAG를 할때 LLM parameter에는 무슨 일이 일어날까
 
 **Reference**  
--
+- [From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries](https://arxiv.org/pdf/2406.12824)
+<img width="828" alt="image" src="https://github.com/user-attachments/assets/e9e00a7c-79df-43a1-84da-3dfa7662199a">
 
 
 **Question/ Discussion**  
