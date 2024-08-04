@@ -52,7 +52,7 @@ https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is:issue+is:open+labe
 
 
 **Summary**  
--
+- [raft.md](./raft.md)
 
 # RAG를 할때 LLM parameter에는 무슨 일이 일어날까
 
