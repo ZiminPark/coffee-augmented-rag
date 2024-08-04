@@ -43,13 +43,12 @@ https://github.com/ZiminPark/coffee-augmented-rag/blob/main/lost-in-the-middle.m
 # RAG+FT 어떻게 시너지 낼수 있을까
 
 **Reference**  
-- [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131)
+- [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/pdf/2403.10131), [code](https://github.com/ShishirPatil/gorilla/tree/main/raft)
 <img width="940" alt="image" src="https://github.com/user-attachments/assets/3eb6e91e-ebdc-49d7-9df1-9d32ad81d739">
 
 
-
 **Question/ Discussion**  
--
+https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is:issue+is:open+label:%22RAG+FT+%EC%96%B4%EB%96%BB%EA%B2%8C+%EC%8B%9C%EB%84%88%EC%A7%80+%EB%82%BC%EC%88%98+%EC%9E%88%EC%9D%84%EA%B9%8C%22
 
 
 **Summary**  
