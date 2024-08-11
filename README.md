@@ -62,16 +62,17 @@ https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is:issue+is:open+labe
 
 
 **Question/ Discussion**  
--
+- https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is%3Aissue+is%3Aopen+label%3A%22RAG%EB%A5%BC+%ED%95%A0%EB%95%8C+LLM+parameter%EC%97%90%EB%8A%94+%EB%AC%B4%EC%8A%A8+%EC%9D%BC%EC%9D%B4+%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C%22
 
 
 **Summary**  
--
+- [probing.md](./probing.md)
 
 # Spreadsheet 데이터는 어떻게 인덱싱하는게 좋을까
 
 **Reference**  
--
+- [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/pdf/2407.09025)
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/74e25a54-cbd6-48e0-8767-a278a7d14afb">
 
 
 **Question/ Discussion**  
