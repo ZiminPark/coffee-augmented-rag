@@ -76,11 +76,11 @@ https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is:issue+is:open+labe
 
 
 **Question/ Discussion**  
--
+- https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is%3Aissue+is%3Aopen+label%3A%22Spreadsheet+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94+%EC%96%B4%EB%96%BB%EA%B2%8C+%EC%9D%B8%EB%8D%B1%EC%8B%B1%ED%95%98%EB%8A%94%EA%B2%8C+%EC%A2%8B%EC%9D%84%EA%B9%8C%22
 
 
 **Summary**  
--
+- [Spreadsheets.md](./Spreadsheets.md)
 
 # Graph RAG는 어떤 상황에서 효과적일까
 
