@@ -83,6 +83,9 @@ https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is:issue+is:open+labe
 - [Spreadsheets.md](./Spreadsheets.md)
 
 # Graph RAG는 어떤 상황에서 효과적일까
+- [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/pdf/2404.16130)
+<img width="1010" alt="image" src="https://github.com/user-attachments/assets/933f81bb-214e-458f-aa10-0a89b0bffa86">
+
 
 **Reference**  
 -
