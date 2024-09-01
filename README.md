@@ -87,16 +87,12 @@ https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is:issue+is:open+labe
 <img width="1010" alt="image" src="https://github.com/user-attachments/assets/933f81bb-214e-458f-aa10-0a89b0bffa86">
 
 
-**Reference**  
--
-
-
 **Question/ Discussion**  
--
+- https://github.com/ZiminPark/coffee-augmented-rag/labels/Graph%20RAG%EB%8A%94%20%EC%96%B4%EB%96%A4%20%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C%20%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%BC%EA%B9%8C
 
 
 **Summary**  
--
+- [graphrag.md](./graphrag.md)
 
 # Citation을 어떻게 하는게 제일 효과적일까 & 평가할까
 
