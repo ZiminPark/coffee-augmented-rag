@@ -1,14 +1,18 @@
 # coffee-augmented-rag
 
-| Topic                                            | # of Interested People(N=8) |
-|------------------------------------------------|---------------------------|
-| [RAG Evaluation을 구성할 때 어떤 점들을 고려해야할까](#rag-evaluation을-구성할-때-어떤-점들을-고려해야할까) | 7                         |
-| [Long Context가 LLM에 들어갈 때 성능이 어떻게 변할까](#long-context가-llm에-들어갈-때-성능이-어떻게-변할까) | 7                         |
-| [RAG+FT 어떻게 시너지 낼수 있을까](#ragft-어떻게-시너지-낼수-있을까)                | 6                         |
-| [RAG를 할때 LLM parameter에는 무슨 일이 일어날까](#rag를-할때-llm-parameter에는-무슨-일이-일어날까)   | 6                         |
-| [Spreadsheet 데이터는 어떻게 인덱싱하는게 좋을까](#spreadsheet-데이터는-어떻게-인덱싱하는게-좋을까)   | 6                         |
-| [Graph RAG는 어떤 상황에서 효과적일까](#graph-rag는-어떤-상황에서-효과적일까)            | 5                         |
-| [Citation을 어떻게 하는게 제일 효과적일까 & 평가할까](#citation을-어떻게-하는게-제일-효과적일까--평가할까) | 4                         |
+RAG를 개발하다 보면 엄밀하게 검증은 못 해봤지만 이렇지 않을까? 싶은 질문이 많습니다.  
+이런 질문들 공유하고 Research Paper 살펴보면서 이야기 나누어 보아요.  
+[Closed Issue](https://github.com/ZiminPark/coffee-augmented-rag/labels)에 Discussion과 질문들이 있습니다. 
+
+| Topic                                            |
+|------------------------------------------------|
+| [RAG Evaluation을 구성할 때 어떤 점들을 고려해야할까](#rag-evaluation을-구성할-때-어떤-점들을-고려해야할까) |
+| [Long Context가 LLM에 들어갈 때 성능이 어떻게 변할까](#long-context가-llm에-들어갈-때-성능이-어떻게-변할까) |
+| [RAG+FT 어떻게 시너지 낼수 있을까](#ragft-어떻게-시너지-낼수-있을까)                |
+| [RAG를 할때 LLM parameter에는 무슨 일이 일어날까](#rag를-할때-llm-parameter에는-무슨-일이-일어날까)   |
+| [Spreadsheet 데이터는 어떻게 인덱싱하는게 좋을까](#spreadsheet-데이터는-어떻게-인덱싱하는게-좋을까)   | 
+| [Graph RAG는 어떤 상황에서 효과적일까](#graph-rag는-어떤-상황에서-효과적일까)            |
+| [Citation을 어떻게 하는게 제일 효과적일까 & 평가할까](#citation을-어떻게-하는게-제일-효과적일까--평가할까) |
 
 
 # RAG Evaluation을 구성할 때 어떤 점들을 고려해야할까
@@ -104,7 +108,7 @@ https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is:issue+is:open+labe
 
 
 **Question/ Discussion**  
--
+- https://github.com/ZiminPark/coffee-augmented-rag/issues?q=is%3Aissue+is%3Aclosed+label%3A%22Citation%EC%9D%84+%EC%96%B4%EB%96%BB%EA%B2%8C+%ED%95%98%EB%8A%94%EA%B2%8C+%EC%A0%9C%EC%9D%BC+%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%BC%EA%B9%8C+%26+%ED%8F%89%EA%B0%80%ED%95%A0%EA%B9%8C%22
 
 
 **Summary**  
